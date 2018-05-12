@@ -1,0 +1,31 @@
+_repo: A-Christian-Directory--Part-4-of-4---13-Christian-Politics_43967
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43967-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baxter, Richard
+    aliases:
+    - Salvianus, Gildas
+    - Reed, Mr.
+    - Baxter, R. (Richard)
+    birthdate: 1615
+    deathdate: 1691
+    gutenberg_agent_id: '41274'
+    url: http://www.gutenberg.org/2009/agents/41274
+description: ''
+gutenberg_issued: '2013-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Christian sociology'
+- !lcsh 'Casuistry'
+title: 'A Christian Directory, Part 4: Christian Politics'
+url: http://www.gutenberg.org/ebooks/43967
